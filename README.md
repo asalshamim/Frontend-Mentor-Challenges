@@ -6,6 +6,6 @@
 
 | Challenges Link  | Live Project Link  |   Technologies used|   Repo Link|   
 |---|---|---|---|---|
-|   |   | HTML - CSS  |   |   
-|   |   |   |   |   
-|   |   |   |   |   
+|   |   | HTML - CSS  |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
