@@ -2,7 +2,7 @@
 
 
 ## Screenshot :
-(/design/desktop-design.png)
+<img src="/design/desktop-design.png" style="height: 100px; width:100px;"/>
 
 
 ## Links
