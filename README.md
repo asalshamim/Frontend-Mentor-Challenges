@@ -4,8 +4,8 @@
 
 ##### So in this repository, you can find my solutions :
 
-| Challenges Link  | Live Project Link  |   Technologies used|   Repo Link|
+| Challenges | Live Project Link  |   Technologies used|   Repo Link|
 |---               |---                 |---                 |---         |
-|                  |                    | HTML - CSS         |            |  
+|Order summary component |              | HTML - CSS         |            |  
 |                  |                    |                    |            |
 |                  |                    |                    |            |
