@@ -6,6 +6,6 @@
 
 | Challenges | Live Project Link
 |---               |---                
-|Order summary component |(https://frontend-mentor-challenges-eosin.vercel.app/)
+|Order summary component |[Preview](https://frontend-mentor-challenges-eosin.vercel.app/)
 |                  |                    |
 |                  |                    |
