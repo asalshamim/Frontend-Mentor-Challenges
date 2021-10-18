@@ -4,8 +4,8 @@
 
 ##### So in this repository, you can find my solutions :
 
-| Challenges | Live Project Link                                            |    Technologies used
-|---               |---                 |---                 |---         |
-|Order summary component |(https://frontend-mentor-challenges-eosin.vercel.app/) | HTML - CSS         |            |  
-|                  |                    |                    |            |
-|                  |                    |                    |            |
+| Challenges | Live Project Link
+|---               |---                
+|Order summary component |(https://frontend-mentor-challenges-eosin.vercel.app/)
+|                  |                    |
+|                  |                    |
