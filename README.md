@@ -7,5 +7,5 @@
 | Challenges | Live Project Link
 |---               |---                
 |Order summary component |[Preview](https://frontend-mentor-challenges-eosin.vercel.app/)
-|Stats preview card component |[Preview](https://frontend-mentor-challenges-blush.vercel.app/)   
+|Stats preview card component |[Preview](https://frontend-mentor-challenges-blush.vercel.app/)  
     
